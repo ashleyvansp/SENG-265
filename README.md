@@ -1,2 +1,10 @@
 # SENG-265
-Coursework for Software Development Methods (SENG 265) at UVic.
+Software Development Methods
+
+Concepts:
+* Memory management
+* Python
+* C
+* Version control
+* Scripting languages
+* Best practices in software development
